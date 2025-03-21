@@ -1,17 +1,15 @@
 {
-  "name": "com.Sonar.PatreonSign",
+  "name": "com.magictwinsworld.SonarPatreonSign",
   "displayName": "Poiyomi Toon Shader",
   "version": "9.1.25",
   "description": "Feature-rich shaders for Unity and VRChat.",
   "author": {
-    "name": "Poiyomi",
-    "url": "https://github.com/poiyomi/PoiyomiToonShader"
+    "name": "magictwin",
+    "url": "https://github.com/magictwinsworld/SonarPatreonSign"
   },
   "gitDependencies": {},
   "vpmDependencies": {},
-  "legacyFolders": {
-    "Assets\\_PoiyomiShaders": ""
-  },
+  "legacyFolders": {},
   "legacyFiles": {},
   "hideInEditor": false,
   "license": "MIT",
