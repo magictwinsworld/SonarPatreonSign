@@ -1,7 +1,7 @@
 {
   "name": "com.magictwinsworld.SonarPatreonSign",
   "displayName": "Sonar Patreon Sign",
-  "version": "9.1.25",
+  "version": "0.2.0",
   "description": "Feature-rich shaders for Unity and VRChat.",
   "author": {
     "name": "magictwin",
